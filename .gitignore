@@ -1,0 +1,7 @@
+# Ignore folders that are part of the HL:A tools.
+addon_template/*
+audio_new_sound/*
+custom_character/*
+
+# Ignore cache artefacts
+_bakeresourcecache/*
