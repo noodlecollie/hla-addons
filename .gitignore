@@ -4,4 +4,5 @@ audio_new_sound/*
 custom_character/*
 
 # Ignore cache artefacts
-_bakeresourcecache/*
+**/_bakeresourcecache/*
+**/*_bakeresourcecache.vpk
